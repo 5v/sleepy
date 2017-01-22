@@ -1,7 +1,7 @@
 {
   "name": "sleepy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Debugging tool for forcing a sleep - sync, promise and callback.",
   "main": "sleepy.js",
   "directories": {
     "test": "test"
