@@ -1,0 +1,22 @@
+{
+  "name": "sleepy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sleepy.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/unit/"
+  },
+  "author": "5v",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/5v/sleepy/issues"
+  },
+  "homepage": "https://github.com/5v/sleepy#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
